@@ -9,22 +9,6 @@
 - [Business Problem Solvability](#business-problem-solvability)
 - [Summary and Recommendations](#summary-and-recommendations)
 
-## Dataset Description
-
-The stroke dataset includes the following attributes:
-
-    id: Unique identifier for each patient
-    gender: Gender of the patient (Male/Female/Other)
-    age: Age of the patient in years
-    hypertension: Whether the patient has hypertension (0: No, 1: Yes)
-    heart_disease: Whether the patient has a heart disease (0: No, 1: Yes)
-    ever_married: Whether the patient is married (Yes/No)
-    work_type: Type of occupation of the patient (Private/Government/Self-employed/Children/Never worked)
-    residence_type: Type of residence of the patient (Urban/Rural)
-    avg_glucose_level: Average glucose level in the patient's blood
-    bmi: Body mass index (BMI) of the patient
-    smoking_status: Smoking status of the patient (formerly smoked/never smoked/smokes/Unknown)
-    stroke: Whether the patient had a stroke or not (0: No, 1: Yes)
 ## Business Problem and Stakeholders
 
 The business problem revolves around predicting the likelihood of stroke in individuals based on various factors. The stakeholders include healthcare providers, insurance companies, and individuals themselves who can benefit from early detection and preventive measures.
