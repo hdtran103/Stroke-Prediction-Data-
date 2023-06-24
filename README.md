@@ -38,13 +38,13 @@ The dataset contains the following features:
 
 ### Insight 1: Age Distribution of Individuals with Stroke
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](i1.png)
 
 The above histogram shows the distribution of ages among individuals who had a stroke. It is evident that the occurrence of strokes increases with age. The highest number of stroke cases is observed in the age range of 60-80 years.
 
 ### Insight 2: Relationship between Hypertension and Stroke
 
-![Hypertension vs. Stroke](images/hypertension_stroke.png)
+![Hypertension vs. Stroke](i3.png)
 
 The bar plot displays the proportion of individuals with and without hypertension who experienced a stroke. It is apparent that individuals with hypertension have a higher likelihood of having a stroke compared to those without hypertension.
 
@@ -63,6 +63,4 @@ Based on the model performance and analytical findings, the following recommenda
 1. **Healthcare Providers**: Implement regular health screenings, particularly for individuals above the age of 60, to identify those at high risk of strokes. Provide education and resources to promote healthy lifestyles, focusing on managing hypertension and maintaining a healthy BMI.
 
 2. **Insurance Companies**: Develop personalized risk assessment models based on individual characteristics to determine appropriate insurance coverage and premium rates. Offer incentives for policyholders to adopt healthy behaviors and participate in preventive health programs.
-
-> It is important to note that the recommendations provided are general suggestions and should be further tailored to the specific context and requirements of the stakeholders.
 
